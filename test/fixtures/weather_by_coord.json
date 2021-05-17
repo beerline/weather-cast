@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 14.4446,
+    "lat": 50.0998
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 25.54,
+    "feels_like": 25.04,
+    "temp_min": 25,
+    "temp_max": 26,
+    "pressure": 1002,
+    "humidity": 34
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.69,
+    "deg": 120
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1620757864,
+  "sys": {
+    "type": 1,
+    "id": 6835,
+    "country": "CZ",
+    "sunrise": 1620703300,
+    "sunset": 1620758136
+  },
+  "timezone": 7200,
+  "id": 3073838,
+  "name": "Karlín",
+  "cod": 200
+}

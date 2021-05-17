@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": -71.0598,
+    "lat": 42.3584
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 290.63,
+    "feels_like": 289.37,
+    "temp_min": 288.12,
+    "temp_max": 292.56,
+    "pressure": 1017,
+    "humidity": 36
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.24,
+    "deg": 14,
+    "gust": 6.71
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1620850550,
+  "sys": {
+    "type": 2,
+    "id": 2013408,
+    "country": "US",
+    "sunrise": 1620811544,
+    "sunset": 1620863733
+  },
+  "timezone": -14400,
+  "id": 4930956,
+  "name": "Boston",
+  "cod": 200
+}
